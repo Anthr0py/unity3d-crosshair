@@ -9,6 +9,6 @@ Include:
 
 Instructions:
   1. Import Crosshair package into your unity project.
-  2. Add CrosshairHolder prefab (located in Crosshair/Prefabs folder) into a existing/new Canvas.
+  2. Add CrosshairHolder prefab (located in Crosshair/Prefabs folder) into an existing or a new canvas.
   3. Configure Crosshair Controller script on the CrosshairHolder object.
   4. Save and Test!
